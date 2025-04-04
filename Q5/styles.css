@@ -1,0 +1,15 @@
+.container{ 
+    margin-top: 100px; 
+    height: 600px;
+}
+ 
+h1{
+    text-align: center;
+    padding: 15px;
+}
+
+button{
+    margin: 10px;
+    height: auto;
+    width: 100px;
+}
